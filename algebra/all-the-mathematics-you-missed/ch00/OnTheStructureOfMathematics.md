@@ -16,3 +16,16 @@ Apparently the research areas of mathematics are those where there are rich part
 Partial answers = invariants and criteria that can often distinguish objects, solve special cases, or classify subsets.
 
 Not complete = there’s no known universal invariant/canonical form/algorithm that classifies all objects under that equivalence.
+
+The notion of invariance is explained with an example of one circle vs two circles. It states that a connected component is basically a separate piece (one circle is one connected component and two separate circles are two pieces = 2 connected components).
+
+A function over this space is going to take any topological space -> output the number of pieces it has.
+
+Because if you only bend and twist a circle (no tearing or gluing allowed anyways) you cannot turn one piece into two pieces without tearing/gluing.
+
+So a topological space that bend and twists its only circle it still outputs 1. This lets us conclude that:
+
+- two spaces giving different numbers they're definitely not equivalent
+- if the two spaces give the same number that doesn't guarantee they are equivalent but that this particular test cannot tell them apart
+
+example: a sphere and a circle both contain 1 connected component but are not equivalent because there is the space dimension which is another topological invariant. So the goal of topology is to find enough invariants to be able to always determine when two spaces are different or the same.
