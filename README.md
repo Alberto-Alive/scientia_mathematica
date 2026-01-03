@@ -1,5 +1,5 @@
 # 📚➡️✅ Maths — books cover to cover
-> *Ordo ab chao* — order from chaos. 🔥
+> *Ordo ab chao* — order from chaos. 📄
 
 I’m working through mathematics textbooks **start to finish**, writing **chapter notes** and solving **exercises** (with full working when useful).  
 This repo is my study log + reference archive.
