@@ -29,3 +29,5 @@ So a topological space that bend and twists its only circle it still outputs 1. 
 - if the two spaces give the same number that doesn't guarantee they are equivalent but that this particular test cannot tell them apart
 
 example: a sphere and a circle both contain 1 connected component but are not equivalent because there is the space dimension which is another topological invariant. So the goal of topology is to find enough invariants to be able to always determine when two spaces are different or the same.
+
+page xxi
