@@ -30,4 +30,15 @@ So a topological space that bend and twists its only circle it still outputs 1. 
 
 example: a sphere and a circle both contain 1 connected component but are not equivalent because there is the space dimension which is another topological invariant. So the goal of topology is to find enough invariants to be able to always determine when two spaces are different or the same.
 
-page xxi
+2) The study of functions
+
+The author says functions describe the world. Without being too poetic, the world is bound by time and time is bound by change thus functions are actually maps to the future.
+
+The author then says that functions can be reused to different problems and that different areas of maths study different type of functions. 
+
+
+**Breif Summaries of Topics**
+
+0.1 Linear Algebra
+
+pg xxiv
