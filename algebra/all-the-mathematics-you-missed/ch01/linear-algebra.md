@@ -33,3 +33,5 @@ g. scaling by 1 changes nothing 1*v =v
 
 Definition 1.3.2 A linear transformation T: V -> W is a function from a vector space V to a vector space W such that for any real numbers a1 and a2 and any vectors v1 adn v2 in V we have:
 T(a1v1 + a2v2) = a1T(v1) + a2T(v2)
+
+pg 5
