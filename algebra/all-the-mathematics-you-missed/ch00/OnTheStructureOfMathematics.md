@@ -39,6 +39,18 @@ The author then says that functions can be reused to different problems and that
 
 **Breif Summaries of Topics**
 
-0.1 Linear Algebra
+01. Linear Algebra
+- linear algebra is about vectors and functions that move vectors in straight-line ways (linear transformations). When you choose a basis (a coordinate system), every vector becomes a list of numbers and every linear transformation becomes a matrix.
 
-pg xxiv
+
+A huge idea is to know that a matrix is invertivle exactly when it doesn't "squash" space - meaning you can always uniquely undo it (equivalently: no nonzero vector gets sent to zero, full rank, nonzero determinant, etc.)
+
+Eigenvectors/eigenvalues show up because they are special directions that a transformation doesn't roate - only stretches or flips - whic makes understanding and computing with transformations much easier.
+
+02. Real Analysis
+- limits continuity derivatives integrals
+![symbols](image.png)
+
+
+03. Differentiating Vector-Valued Functions
+The goal of the Inverse Function Theorem is to show that a differentiable function f: Rn -> Rn is locally invertible if and only if the determinant of its derivative (the Jacobian) is non-zero.
