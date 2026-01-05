@@ -54,3 +54,15 @@ Eigenvectors/eigenvalues show up because they are special directions that a tran
 
 03. Differentiating Vector-Valued Functions
 The goal of the Inverse Function Theorem is to show that a differentiable function f: Rn -> Rn is locally invertible if and only if the determinant of its derivative (the Jacobian) is non-zero.
+
+
+04. Point Set Topology
+
+Learn how to define a topology in terms of open sets and how to express the idea of continuous functions in terms of open sets.
+
+05. Classical Stokes' Theorems
+- calculus of vector fields (geometric interpretations behind the curl and the divergence of a vector field, the gradient of a function and the path integral along a curve)
+
+
+06. Differential Forms and Stokes' Theorem
+Manifolds are naturally occuring geometric objects. Differential k-forms are the tools doing calculus on manifolds. 
