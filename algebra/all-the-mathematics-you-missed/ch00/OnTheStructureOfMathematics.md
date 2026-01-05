@@ -66,3 +66,43 @@ Learn how to define a topology in terms of open sets and how to express the idea
 
 06. Differential Forms and Stokes' Theorem
 Manifolds are naturally occuring geometric objects. Differential k-forms are the tools doing calculus on manifolds. 
+
+07. Curvatures for Curves and Surfaces
+Curvature, in all of its manifestations, attempts to measure the rate of change of the directions of tangent spaces of geometric objects
+
+08. Geometry
+
+Different geometries are built out of different axiomatic systems. Given a line l and a point p not on l, Euclidean geometry assumes that there is exactly one line containing p parallel to l, hyperbolic geometry assumes that there is more than one line containing p parallel to l, and elliptic geometries assum that there is no line parallel to l.
+
+09. Complex Analysis
+The main point is to recognize and understand the many equivalent ways for describing when a function can be analytic. Here we are concerned with functions f: U -> C, where U is an open set in the complex numbers C.
+
+10. Countability and the Axiom of Choice
+Know what it means for a set to be countably infinite. In particular, one should know that the integers and rationals are countably infinite, while the real numbers are uncountably infinite... so much smoke
+
+11. Algebra
+- groups, Sylow Theorem, Galois Theory
+
+12. Lebesgue Integration
+- Lebesgue Dominating Convergence theorem
+
+13. Fourier Analysis
+
+- Fourier series of a periodic function
+- Fourier integral of a function
+- Fourier transform
+- how Fourier series elate to Hilbert spaces
+- how Fourier transforms can be used to simplify differential equations
+
+14. Differential Equations
+The goal in differntial equations is to find an unknown function satisfyinf an equation involving derivatives. Subject to mild restrictions, there are always solutions to ordinary differential equations. This is most definitely not the case for partial differential equations, where even the existence of solutions is frequently unknown. You should also be familiar with the three traditional classes of partial differential equations: the heat equation, the wave equation and the Laplacian.
+
+
+15. Combinatorics and probability Theory
+Both elementary combinatorics and basic probability theory reduce to problems in counting.
+
+16. Algorithms
+
+- complexity of an algorithm (ex: P=NP)
+- basic graph theory
+- Newton's method for approximating the roots of a ploynomial
