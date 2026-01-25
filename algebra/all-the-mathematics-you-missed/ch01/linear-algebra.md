@@ -34,4 +34,15 @@ g. scaling by 1 changes nothing 1*v =v
 Definition 1.3.2 A linear transformation T: V -> W is a function from a vector space V to a vector space W such that for any real numbers a1 and a2 and any vectors v1 adn v2 in V we have:
 T(a1v1 + a2v2) = a1T(v1) + a2T(v2)
 
-pg 5
+Definition 1.3.3 A subset U of a vector space V is a subspace of V if U is itself a vector space.
+
+Proposition 1.3.1 A subset U of a vector V is a subspace of V if U is closed under addition and scalar multiplication.
+
+
+Definition 1.3.4 If T: V -> W is a linear transformation, then the kernel of T is:
+    ker(T) = {v ∈ V : T(v) = 0} - what the machine kills
+and the image of T is 
+Im(T) = {w ∈ W : there exists a "v" ∈ V with T(v) = w} - what the machine can output
+
+
+
