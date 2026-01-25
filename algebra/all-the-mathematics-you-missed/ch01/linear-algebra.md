@@ -45,4 +45,10 @@ and the image of T is
 Im(T) = {w ∈ W : there exists a "v" ∈ V with T(v) = w} - what the machine can output
 
 
+Given the kernel is a subspace of V, and v1 and v2 are two vectors in the kernel and if a and b are any two real numbers, then:
+
+T(av1 + bv2) = aT(v1) + bT(v2)
+             = a * 0 + b * 0
+             = 0
+
 
