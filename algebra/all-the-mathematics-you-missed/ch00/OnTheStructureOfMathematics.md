@@ -72,6 +72,10 @@ Example:
 05. Classical Stokes' Theorems
 - calculus of vector fields (geometric interpretations behind the curl and the divergence of a vector field, the gradient of a function and the path integral along a curve)
 
+The Fundamental Theorem of Calculus is a combo between derivatives (rates of change) and integrals (accumulated area) and it measures the rate at which area accumulates.
+
+Divergence Theorem - Gauss Theorem: draw an imaginary box around an object then throw stuff at it then to know how much the objects sucks in you measure what goes out from the imaginary box.
+
 
 06. Differential Forms and Stokes' Theorem
 Manifolds are naturally occuring geometric objects. Differential k-forms are the tools doing calculus on manifolds. 
