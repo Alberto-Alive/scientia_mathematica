@@ -75,6 +75,7 @@ Example:
 The Fundamental Theorem of Calculus is a combo between derivatives (rates of change) and integrals (accumulated area) and it measures the rate at which area accumulates.
 
 Divergence Theorem - Gauss Theorem: draw an imaginary box around an object then throw stuff at it then to know how much the objects sucks in you measure what goes out from the imaginary box.
+SStokes Theorem is the same .. as Gauss but you imagine a circle so you can measure swirls
 
 
 06. Differential Forms and Stokes' Theorem
