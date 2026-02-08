@@ -59,6 +59,15 @@ The goal of the Inverse Function Theorem is to show that a differentiable functi
 04. Point Set Topology
 
 Learn how to define a topology in terms of open sets and how to express the idea of continuous functions in terms of open sets.
+Heine-Borel Theorem says: a set in a normal (aka standard Rn setup) Euclidean space is "compact" when it is:
+1. Bounded - it fits in some big ball/box (not infinite) and
+2. Closed - it includes its boundary/edge points (no missing edge)
+
+Example: 
+[0, 1] is compact because it is bounded [] and includes endpoints 0 and 1
+(0, 1) is not compact because it is bounded () but not closed aka the endpoints are not specific they just represent approaching limits.
+[0, ∞) is not compact because although it is sealed at 0 is unbounded to the right -> not compact
+
 
 05. Classical Stokes' Theorems
 - calculus of vector fields (geometric interpretations behind the curl and the divergence of a vector field, the gradient of a function and the path integral along a curve)
